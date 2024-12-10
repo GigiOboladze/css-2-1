@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header { 
+    padding: 12px 80px;
+}
+#marce{
+    vertical-align: middle;
+
+}
+nav, #list , #list li { 
+    display: inline-block;
+}
+#list { 
+    vertical-align: middle;
+    color: #323232;
+    font-size: 18px;
+}
+#list  li{ 
+    margin-left: 20px;
+}
+#contact {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #AC00FF;
+    background-color: #E9D7FE;
+}
+#offers {
+    padding-right: 50px;
+}
+h1 {
+    color: #323232;
+    font-size: 64px;
+    width: 720px;
+}
+#pone {
+    padding-top: 24px;
+    padding-bottom: 24px;
+    color: #323232;
+    font-size: 24px;
+}
+#container {
+    margin-left: 214px;
+    margin-top: 136px;
+}
+#containertwo { 
+    max-width: 841px;
+}
+#join {
+    width: 204px;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background-color: #5C3BAE;
+    color: #FFFF;
+    padding-right: 24px;
+
+}
+#play {
+    vertical-align: middle;
+}
+#watchvideo {
+    color: #4D3491;
+    margin-left: 12px;
+    font-size: 18px;
+    vertical-align: middle;
+}
+#img {
+    text-align:right;
+    margin-top: -130px;
+}
